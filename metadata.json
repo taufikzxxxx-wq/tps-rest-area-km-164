@@ -1,0 +1,6 @@
+{
+  "name": "TPS Rest Area KM 164B Tol Cipali - Ekosistem Zero Waste",
+  "description": "Smart Waste Management dan Toko Online Resmi TPS Rest Area KM 164B Tol Cipali. Jual Pupuk Cair, Pupuk Padat, Kasgot, dan Maggot Kering langsung terhubung ke WhatsApp 081266515635.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
